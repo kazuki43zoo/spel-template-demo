@@ -1,0 +1,3 @@
+Hi ${#trimWhitespace(#user.name) ?: 'Taro'}.
+
+Welcome developer team of ${#project.name ?: 'Demo'}!!
